@@ -1,7 +1,10 @@
 # Author
-Noah Mengesha 
+Noah Mengesha
+
 Feb 7, 2025
-###* Some of my Hobbies 
+
+## Some of my Hobbies 
+
 Drawing 
 I took an art class at Montgomery College and thoroughly enjoyed the experience.
 I enjoy watching and playing soccer, and I am a Manchester United fan 
