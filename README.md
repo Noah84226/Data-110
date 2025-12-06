@@ -130,4 +130,11 @@ The boxplot comparing prices across the top 10 manufacturers provides a deeper u
 Geographic Distribution of EVs (Latitude vs Longitude)
 The geographic scatter plot displays the latitude and longitude of all EVs in the dataset, showing where electric vehicles are most commonly registered. We can see that the points are concentrated in specific regions, indicating that EV adoption is higher in certain areas. These clusters typically occur in urban or suburban locations where charging infrastructure is more accessible. The visualization helps highlight regional patterns in EV presence and allows us to see how location may influence EV usage. Overall, this plot provides a clear picture of where electric vehicles are most densely located.
 
+Noah
+Conclusion
 
+In this project, our team evaluated the Electric Vehicle Population dataset to explore trends in EV adoption and to construct predictive models that classify vehicles as Battery Electric Vehicles (BEVs) or Plug-In Hybrid Electric Vehicles (PHEVs). After cleaning and processing the data, we did exploratory data analysis, discovering crucial insights into electric range distribution, model-year patterns, and manufacturer representation. We were better able to comprehend the dataset's structure and the variables related to EV adoption thanks to these visuals. We subsequently developed a Logistic Regression model, which produced an overall accuracy of ~80%. The model did remarkably well at recognizing BEVs, with a recall of 99%, but struggled with PHEVs because to severe class imbalance.
+
+We also examined One-vs-Rest (OvR) and One-vs-One (OvO) methods. The findings showed that while both methods perform similarly in this binary classification scenario, OvR is more interpretable and computationally efficient.
+
+Overall, the project achieved the goals of conducting relevant EDA, applying machine learning approaches, and interpreting the results in the context of real-world EV adoption trends. Future modifications, like adding pricing information, introducing geographic elements, or experimenting with tree-based models, have a strong foundation thanks to the effort.
